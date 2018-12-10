@@ -1,0 +1,6 @@
+## Requirements for git-hub.py
+
+pygit2
+argparse
+PyGithub
+giturlparse
